@@ -15,6 +15,7 @@ author: AutomaONE OÜ
 
 navbar-links:
   About Us: "aboutus"
+  Services: "services"
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://www.linkedin.com/in/cloudexpert"
