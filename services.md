@@ -11,7 +11,7 @@ My name is ... I have the following qualities:
 
 What else do you need?
 
-![](/uploads/img_6268-uk-passport-35x45-mm.jpg)
+### ![](/uploads/img_6268-uk-passport-35x45-mm.jpg)
 
 ### My story
 
