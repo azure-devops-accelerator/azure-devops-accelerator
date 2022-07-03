@@ -4,6 +4,7 @@ title: Services
 subtitle: Why you'd want to ...
 
 ---
+
 My name is ... I have the following qualities:
 
 * ...
@@ -11,7 +12,6 @@ My name is ... I have the following qualities:
 
 What else do you need?
 
-### ![](/uploads/img_6268-uk-passport-35x45-mm.jpg)
 
 ### My story
 
